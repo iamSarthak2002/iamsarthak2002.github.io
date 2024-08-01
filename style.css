@@ -93,7 +93,7 @@ body {
 .contact-link, .instagram-link {
   text-decoration: none;
   color: #000; /* Black color for the text */
-  font-family: 'Neue Haas Grotesk Display Pro', 'Freight Big Pro', sans-serif; /* Font family with fallback fonts */
+  font-family: 'FreightBigProBook', sans-serif; /* Font family as specified */
   font-size: 20px; /* Slightly larger font size */
   font-weight: 500; /* Font weight as specified */
   text-transform: uppercase; /* Uppercase text */
