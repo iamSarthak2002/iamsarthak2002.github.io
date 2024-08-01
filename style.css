@@ -93,7 +93,7 @@ body {
 .contact-link, .instagram-link {
   text-decoration: none;
   color: #000; /* Black color for the text */
-  font-family: 'Neue Haas Grotesk Display Pro', sans-serif; /* Font family as specified */
+  font-family: 'Neue Haas Grotesk Display Pro', 'Freight Big Pro', sans-serif; /* Font family with fallback fonts */
   font-size: 20px; /* Slightly larger font size */
   font-weight: 500; /* Font weight as specified */
   text-transform: uppercase; /* Uppercase text */
@@ -101,7 +101,9 @@ body {
   line-height: 1.9em; /* Line height as specified */
   position: absolute; /* Position relative to #page1 */
   bottom: 40px;
+  left: 20px; /* Ensure enough distance from the side */
 }
+
 
 .contact-link {
   left: 60px; /* Distance from the left edge */
