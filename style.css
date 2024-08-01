@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Freight Big Pro", serif; /* Add fallback font */
+  font-family: 'FreightBigProBook', serif; /* Add fallback font */
 }
 
 /* General body styles */
