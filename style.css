@@ -101,7 +101,6 @@ body {
   line-height: 1.9em; /* Line height as specified */
   position: absolute; /* Position relative to #page1 */
   bottom: 40px;
-  left: 20px; /* Ensure enough distance from the side */
 }
 
 
